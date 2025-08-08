@@ -56,6 +56,8 @@ spaCy English model: en_core_web_sm
 Optional tools: VS Code, Anaconda, Postman (for API testing)
 ## To install all dependencies at once:
 pip install spacy fastapi uvicorn pyyaml
-python -m spacy download en_core_web_sm
+## Contact
+meriem.kermani@univ-constantine2.dz
+For questions or feedback, contact: [lm
    
    
